@@ -6,3 +6,7 @@ A fun website to ask someone to be your valentine, made with React.
 * Make sure you have npm installed. 
 * From the valentine directory, run npm i
 * Then run npm start
+
+## How to change the song 
+* Replace audio.mp3 with your desired mp3 file.
+* Make sure you rename your file to audio.mp3
